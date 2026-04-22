@@ -17,14 +17,3 @@ Heart disease remains one of the leading causes of death worldwide. Early and ac
 2. **EDA**: Visualize distributions and correlations.
 3. **Model Building**: Train/test split and training of classification models.
 4. **Model Evaluation**: Compare models using standard classification metrics.
-
-## Dataset
-The dataset used in this project is the UCI Heart Disease dataset (Cleveland database).
-
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Open `Heart_Disease_Prediction.ipynb` in Jupyter Notebook or VS Code.
-3. Run all cells to see the analysis and results.
